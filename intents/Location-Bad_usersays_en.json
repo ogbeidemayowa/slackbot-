@@ -1,0 +1,40 @@
+[
+  {
+    "id": "147da235-3a18-4d39-8d3c-b5dd6cf8773e",
+    "data": [
+      {
+        "text": "rubbish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d05b595-8d42-415b-84ca-ff1ae6665afe",
+    "data": [
+      {
+        "text": "bad",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0a8ec02-b3e0-416d-a238-2287e53ac076",
+    "data": [
+      {
+        "text": "terrible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

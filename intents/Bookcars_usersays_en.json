@@ -1,0 +1,248 @@
+[
+  {
+    "id": "cc0a9bea-c416-41f7-ac43-9429a6456e0e",
+    "data": [
+      {
+        "text": "book an ",
+        "userDefined": false
+      },
+      {
+        "text": "suv",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "3pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tommorow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0ba786e-23af-43f6-aecc-773cb4403fea",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "sedan",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "4pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88a13a0c-bf8e-4471-a59a-c0a4f89dc071",
+    "data": [
+      {
+        "text": "boook an ",
+        "userDefined": false
+      },
+      {
+        "text": "suv",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0aa7fe36-41a6-40ab-9ea0-78ab59ac656d",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "convertible",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "138aa222-f49d-417a-a795-f90f028fc123",
+    "data": [
+      {
+        "text": "book an ",
+        "userDefined": false
+      },
+      {
+        "text": "suv",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b094bfb1-e1b2-4c59-be87-58487e0e3610",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "hatchback",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab5ba24e-c588-4c59-aa2b-d025a0b5315f",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "sedan",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "lagos",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43f894ce-ef24-449d-9196-8e0f7abf7b94",
+    "data": [
+      {
+        "text": "reserve a sedan in Lagos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "574890c5-ffbb-40c7-9df8-f2e3bba5f265",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "sedan",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca30f97f-a16e-4563-b2ed-65302f8d0b60",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "benz",
+        "alias": "car_type",
+        "meta": "@car_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e5409d0-0953-4140-a1a2-f5ec87638a5e",
+    "data": [
+      {
+        "text": "book a car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

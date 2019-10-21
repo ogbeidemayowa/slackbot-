@@ -1,0 +1,33 @@
+[
+  {
+    "value": "good",
+    "synonyms": [
+      "good",
+      "dope,nice",
+      "great",
+      "loved it",
+      "nice",
+      "awesome"
+    ]
+  },
+  {
+    "value": "bad",
+    "synonyms": [
+      "bad",
+      "terrible,hate it,rubbish,fucked up,scam,terrible,hated it"
+    ]
+  },
+  {
+    "value": "terrible",
+    "synonyms": [
+      "terrible",
+      "rubbish"
+    ]
+  },
+  {
+    "value": "dope",
+    "synonyms": [
+      "dope"
+    ]
+  }
+]

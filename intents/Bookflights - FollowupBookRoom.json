@@ -1,0 +1,49 @@
+{
+  "id": "3ea84c39-d556-4ca6-a5de-dc70876b708a",
+  "parentId": "4f86cf87-dcf3-42c5-8dd5-37b8f3aaac70",
+  "rootParentId": "4f86cf87-dcf3-42c5-8dd5-37b8f3aaac70",
+  "name": "Bookflights - FollowupBookRoom",
+  "auto": true,
+  "contexts": [
+    "flight_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Bookflights.Bookflights-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "55e1aa85-9c88-451b-9bf9-e6c7e98b8a14",
+          "required": false,
+          "dataType": "@room_type",
+          "name": "room_type",
+          "value": "$room_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "done reserved a $room_type for you in $geo-city on $date . Have a pleasant stay!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

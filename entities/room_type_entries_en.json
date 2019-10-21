@@ -1,0 +1,43 @@
+[
+  {
+    "value": "master suite",
+    "synonyms": [
+      "deluxe"
+    ]
+  },
+  {
+    "value": "single",
+    "synonyms": [
+      "single",
+      "one"
+    ]
+  },
+  {
+    "value": "twin",
+    "synonyms": [
+      "twin",
+      "joint"
+    ]
+  },
+  {
+    "value": "double",
+    "synonyms": [
+      "double",
+      "two"
+    ]
+  },
+  {
+    "value": "queen",
+    "synonyms": [
+      "queen",
+      "madam"
+    ]
+  },
+  {
+    "value": "king",
+    "synonyms": [
+      "king",
+      "sir"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "781f7b6c-a628-4629-bb6b-b906cf6f44ee",
+  "name": "Location-Bad",
+  "auto": true,
+  "contexts": [
+    "location-feedback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "facilities-feedback",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f0604fb8-05bf-4730-af6f-cd0a3ff592d8",
+          "required": false,
+          "dataType": "@Rating",
+          "name": "Rating",
+          "value": "$Rating",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "sorry you did not like the location,how was the facilities good or bad"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

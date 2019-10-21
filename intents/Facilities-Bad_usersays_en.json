@@ -1,0 +1,56 @@
+[
+  {
+    "id": "990843ce-bbda-46a3-a9b8-035e91c68d01",
+    "data": [
+      {
+        "text": "scam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6da73cf-821c-4169-87b4-183e5d6ca9e3",
+    "data": [
+      {
+        "text": "rubbish",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc53d811-6422-4274-9507-076e73196cbf",
+    "data": [
+      {
+        "text": "bad",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3a54ed0-98eb-4453-8af0-f848933ba5e1",
+    "data": [
+      {
+        "text": "terrible",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

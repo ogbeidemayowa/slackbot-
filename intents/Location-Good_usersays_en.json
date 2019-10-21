@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6787dcbd-db62-4109-a9a4-846c554dc0a8",
+    "data": [
+      {
+        "text": "it was insanely good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47d7546c-d1be-4cad-bc65-f6022f649bd7",
+    "data": [
+      {
+        "text": "good",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f67cde3d-e435-419c-b9ad-b64c28ae1f97",
+    "data": [
+      {
+        "text": "it was ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

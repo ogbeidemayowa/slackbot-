@@ -1,0 +1,328 @@
+[
+  {
+    "id": "fb682762-c57d-4f85-a5cc-12b7474692e1",
+    "data": [
+      {
+        "text": "book a flight for ",
+        "userDefined": false
+      },
+      {
+        "text": "4pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13309fbd-ef3f-48e7-8935-0a88e84e5aec",
+    "data": [
+      {
+        "text": "book a flight to ",
+        "userDefined": false
+      },
+      {
+        "text": "korea",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c4ad596-a1e9-412d-a70e-139cf6914220",
+    "data": [
+      {
+        "text": "multiple-stops",
+        "alias": "flight_type",
+        "meta": "@flight_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34c84397-5752-4308-a21b-e1dc5a18f813",
+    "data": [
+      {
+        "text": "multiple-stop",
+        "alias": "flight_type",
+        "meta": "@flight_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e96cf6b-a42c-4911-b993-e84f0da9e2b4",
+    "data": [
+      {
+        "text": "one-stop",
+        "alias": "flight_type",
+        "meta": "@flight_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35ae18f9-0699-4e4e-a4bc-b6fa769ab419",
+    "data": [
+      {
+        "text": "direct",
+        "alias": "flight_type",
+        "meta": "@flight_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "542da849-b165-4a23-8eec-a54cd4c9b561",
+    "data": [
+      {
+        "text": "book a flight for ",
+        "userDefined": false
+      },
+      {
+        "text": "January 1 2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd714e2f-56cd-4c0c-b714-c03ddcf24398",
+    "data": [
+      {
+        "text": "book a flight for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8e834e4-a2b0-4342-a170-30d1dfbbba9d",
+    "data": [
+      {
+        "text": "reserve a flight for ",
+        "userDefined": false
+      },
+      {
+        "text": "next Tuesday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14a70055-173c-4529-bffe-799261027ee4",
+    "data": [
+      {
+        "text": "book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Lagos",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4683b56-944e-431f-b725-d4c1da7b84f3",
+    "data": [
+      {
+        "text": "flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on December 20 2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6efe1618-4780-45b3-af5c-0de8ff24dbd5",
+    "data": [
+      {
+        "text": "flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Lagos",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " to Abuja ",
+        "userDefined": false
+      },
+      {
+        "text": "on December 20 2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d714e06e-6ce8-48ee-91f9-1b57e6fc3153",
+    "data": [
+      {
+        "text": "reserve a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Lagos",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " to Basel ",
+        "userDefined": false
+      },
+      {
+        "text": "on December 10 2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "882f8d9d-8cd8-46b5-ae67-d77e680710e0",
+    "data": [
+      {
+        "text": "non-stop",
+        "alias": "flight_type",
+        "meta": "@flight_type",
+        "userDefined": false
+      },
+      {
+        "text": " flights from ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " to Geneva ",
+        "userDefined": false
+      },
+      {
+        "text": "on December 20",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "495ba3bf-0780-4dec-9090-f797b01fb04b",
+    "data": [
+      {
+        "text": "non-stop",
+        "alias": "flight_type",
+        "meta": "@flight_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

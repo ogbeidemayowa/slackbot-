@@ -1,0 +1,46 @@
+{
+  "id": "f5badf40-f662-453f-b087-c2044da4ef21",
+  "name": "Facilities-Good",
+  "auto": true,
+  "contexts": [
+    "facilities-feedback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "11b628fe-df2a-41ee-9dc6-343840b667e7",
+          "required": false,
+          "dataType": "@Rating",
+          "name": "Rating",
+          "value": "$Rating",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "thank you,glad you love the facilities."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

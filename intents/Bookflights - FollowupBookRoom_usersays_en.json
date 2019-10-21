@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dcd24b04-c0d1-435e-bbbc-51e0dd082d88",
+    "data": [
+      {
+        "text": "book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5fcec26-d69b-487d-ab34-de540413e608",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "queen",
+        "alias": "room_type",
+        "meta": "@room_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2543b84-141a-4509-a87a-e9185c958bf7",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "king",
+        "alias": "room_type",
+        "meta": "@room_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

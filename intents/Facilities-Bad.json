@@ -1,0 +1,46 @@
+{
+  "id": "e6772bc1-4e2c-40e3-bacb-6bd7b052a0b6",
+  "name": "Facilities-Bad",
+  "auto": true,
+  "contexts": [
+    "facilities-feedback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bed72946-151f-4074-9415-8d2e399d6ba7",
+          "required": false,
+          "dataType": "@Rating",
+          "name": "Rating",
+          "value": "$Rating",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "sorry you did not like the facilities.... thank you for your feedback...."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "39f79210-fad8-43b9-a6a5-cb9950239ea7",
+    "data": [
+      {
+        "text": "bad service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "742edfb8-1405-4b8e-925f-c347b3aba02f",
+    "data": [
+      {
+        "text": "not happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45c2da86-001f-4e73-8718-744bb05d7c0d",
+    "data": [
+      {
+        "text": "scam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91fc819c-f087-4cea-a034-19d742dada49",
+    "data": [
+      {
+        "text": "rubbish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7be1e88-2355-4c95-a405-4db0288022ea",
+    "data": [
+      {
+        "text": "complaint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3199d07f-ac39-48c2-b79e-0d78b4977a25",
+    "data": [
+      {
+        "text": "complain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66940a74-0566-448c-995e-aab17eb23e2e",
+    "data": [
+      {
+        "text": "unhappy with service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b462f1c-4b0b-4f99-933f-a7b86b582076",
+    "data": [
+      {
+        "text": "i have some feedback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bce95524-4f02-4d3e-9bea-e4a8774c685b",
+    "data": [
+      {
+        "text": "i would like to give some feedback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

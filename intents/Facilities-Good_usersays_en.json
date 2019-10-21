@@ -1,0 +1,68 @@
+[
+  {
+    "id": "96d09a7a-50a1-491c-a3ee-cd7201153305",
+    "data": [
+      {
+        "text": "loved it",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e5eba3e5-0780-46f5-9511-df6f464769eb",
+    "data": [
+      {
+        "text": "it was dope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45f0354c-dc56-41ee-b6f7-5e862b0c9935",
+    "data": [
+      {
+        "text": "nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a575499c-efd5-41bf-9838-7deb7a88f895",
+    "data": [
+      {
+        "text": "great",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2e120fcc-eb24-4d0e-8046-00521fb66192",
+    "data": [
+      {
+        "text": "good",
+        "alias": "Rating",
+        "meta": "@Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]
